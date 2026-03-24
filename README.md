@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hey, I'm Joseph Garcia Jimenez
 
-<!--
-**sephty/sephty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Backend Developer focused on scalable systems & clean architecture**
 
-Here are some ideas to get you started:
+Desarrollador Backend Junior enfocado en construir soluciones escalables y funcionales, con experiencia en APIs REST y aplicaciones web interactivas. Me especializo en escribir código limpio, modular y mantenible.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚙️ Tech Stack
+**💻 Languages:** Python | JavaScript | C++ | SQL  
+**🌐 Web:** HTML | CSS | Node.js  
+**🛠 Tools:** Git | JSON Server  
+**📐 Methodologies:** Scrum | Agile  
+
+## 🚀 Featured Projects
+
+- **🟢 DelRincon Hotel**  
+  Sistema de gestión de reservas con API REST, autenticación y panel administrativo.
+
+- **🟢 ABC Campus (LMS)**  
+  Plataforma educativa con gestión de cursos, usuarios y panel seguro.
+
+- **🟢 LuxTime (CSS Only)**  
+  Catálogo web interactivo enfocado en diseño y animaciones.
+
+- **🟢 Gestión Librería (Python)**  
+  Aplicación de consola para administrar colecciones multimedia.
+
+## 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sephty&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sephty&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+## 🧠 Mindset
+- Resolver problemas > memorizar soluciones  
+- Código limpio > código rápido  
+- Sistemas escalables > soluciones temporales  
+
+## ⚡ Extra
+**Currently learning:** Backend Architecture, API Design, Performance Optimization  
+**Goal:** Build systems that actually scale
