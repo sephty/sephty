@@ -33,6 +33,13 @@
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sephty&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 
+## 🤝
+
+Si te interesa colaborar en proyectos de software o tecnología, estaré encantado de conversar.
+
+- ✉️ **Email:** [trillseph@gmail.com](mailto:trillseph@gmail.com)
+- 🌐 **Portafolio:** [https://sephty.github.io/Mi-Portfolio/](https://sephty.github.io/Mi-Portfolio/)
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Bottom Banner" />
