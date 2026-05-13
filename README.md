@@ -1,40 +1,24 @@
-# 👋 Hey, I'm Joseph Garcia Jimenez
 
-**Backend Developer focused on scalable systems & clean architecture**
+<h1 align="center">¡Hola! Soy Joseph, desarrollador Backend enfocado en construir APIs REST y sistemas escalables con código limpio y modular👋</h1>
 
-Desarrollador Backend Junior enfocado en construir soluciones escalables y funcionales, con experiencia en APIs REST y aplicaciones web interactivas. Me especializo en escribir código limpio, modular y mantenible.
-
-## ⚙️ Tech Stack
-**💻 Languages:** Python | JavaScript | C++ | SQL  
-**🌐 Web:** HTML | CSS | Node.js  
-**🛠 Tools:** Git | JSON Server  
-**📐 Methodologies:** Scrum | Agile  
-
-## 🚀 Featured Projects
-
-- **🟢 DelRincon Hotel**  
-  Sistema de gestión de reservas con API REST, autenticación y panel administrativo.
-
-- **🟢 ABC Campus (LMS)**  
-  Plataforma educativa con gestión de cursos, usuarios y panel seguro.
-
-- **🟢 LuxTime (CSS Only)**  
-  Catálogo web interactivo enfocado en diseño y animaciones.
-
-- **🟢 Gestión Librería (Python)**  
-  Aplicación de consola para administrar colecciones multimedia.
-
-## 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sephty&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sephty&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark" />
 </p>
 
-## 🧠 Mindset
-- Resolver problemas > memorizar soluciones  
-- Código limpio > código rápido  
-- Sistemas escalables > soluciones temporales  
+<p align="center">
+  <a href="mailto:trillseph@gmail.com"><img src="https://img.shields.io/badge/Email-Contáctame-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://sephty.github.io/Mi-Portfolio/"><img src="https://img.shields.io/badge/Portafolio-Ver%20sitio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://github.com/sephty"><img src="https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
-## ⚡ Extra
-**Currently learning:** Backend Architecture, API Design, Performance Optimization  
-**Goal:** Build systems that actually scale
+## 💻 Tech Stack:
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+## 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=sephty&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=sephty&theme=shadow_blue&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=sephty&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+
