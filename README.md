@@ -10,7 +10,9 @@
   <a href="https://sephty.github.io/Mi-Portfolio/"><img src="https://img.shields.io/badge/Portafolio-Ver%20sitio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
   <a href="https://github.com/sephty"><img src="https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
+
 ## 💻 Tech Stack:
+
 <p align="center">
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
@@ -24,6 +26,7 @@
 </p>
 
 ## 📊 GitHub Stats:
+
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=sephty&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true" /><br/>
   <img src="https://streak-stats.demolab.com/?user=sephty&theme=shadow_blue&hide_border=false" /><br/>
