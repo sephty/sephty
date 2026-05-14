@@ -1,5 +1,7 @@
 
-<h1 align="center">¡Hola! Soy Joseph, desarrollador Backend enfocado en construir APIs REST y sistemas escalables con código limpio y modular👋</h1>
+<h1 align="center">¡Hola! Soy Joseph👋</h1>
+
+<h1 align="center"> desarrollador Backend enfocado en construir APIs REST y sistemas escalables con código limpio y modular </h1>
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark" />
